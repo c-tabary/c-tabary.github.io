@@ -1,2 +1,1 @@
-# c-tabary.github.io
-Côme Tabary's homepage - PhD
+Côme Tabary's homepage - PhD Student in Mathematics
