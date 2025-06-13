@@ -1,12 +1,11 @@
 ---
 permalink: /publications/
 author_profile: true
+title: 'Prepublications'
 redirect_from: 
   - "/publication/"
 ---
 
-Prepublications
-======
 [Weak-Strong uniqueness for the Landau equation by a relative entropy method. ](https://arxiv.org/pdf/2505.21120)
 \
 Preprint, 2025.
