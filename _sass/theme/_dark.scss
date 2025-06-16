@@ -52,5 +52,6 @@ html[data-theme="dark"] {
     --global-text-color                 : #{$text};
     --global-text-color-light           : #{$light-gray};
     --global-thead-color                : #{$background-lighter};
-    --global-test-color                 : #b9e837;
+    --global-button-color               : #{$background_footer};
+    --global-button-fg-color               : #ffffff;
 }
