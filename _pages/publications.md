@@ -5,8 +5,11 @@ title: 'Prepublications'
 redirect_from: 
   - "/publication/"
 ---
+[Propagation of chaos for the Landau equation with very soft potentials.](https://arxiv.org/pdf/2506.15795)
+\
+Preprint, 2025.
 
-[Weak-Strong uniqueness for the Landau equation by a relative entropy method. ](https://arxiv.org/pdf/2505.21120)
+[Weak-Strong uniqueness for the Landau equation by a relative entropy method.](https://arxiv.org/pdf/2505.21120)
 \
 Preprint, 2025.
 
