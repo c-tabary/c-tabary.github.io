@@ -5,9 +5,9 @@ title: 'Prepublications'
 redirect_from: 
   - "/publication/"
 ---
-[Propagation of chaos for the Landau equation with very soft potentials.](https://arxiv.org/pdf/2506.15795)
+[Propagation of chaos for the Landau equation with very soft and Coulomb potentials.](https://arxiv.org/pdf/2506.15795)
 \
-Preprint, 2025. The day this preprint was submitted, the paper "Kac's Program for the Landau Equation" by X. Feng and Z. Wang was published on arXiv, in which propagation of chaos for Coulomb interactions is proven (and the proof can cover very soft potentials as well). This paper is hence not mentioned in my work above, but I acknowledge its anteriority and pledge that my work was redacted in parallel to theirs and without knowledge of it.
+Preprint, 2025.
 
 [Weak-Strong uniqueness for the Landau equation by a relative entropy method.](https://arxiv.org/pdf/2505.21120)
 \
