@@ -5,7 +5,11 @@ title: 'Prepublications'
 redirect_from: 
   - "/publication/"
 ---
-[Propagation of chaos for the Landau equation with very soft and Coulomb potentials.](https://arxiv.org/pdf/2506.15795)
+[On the monotonicity of the entropy production in the Landau-Maxwell equation.](https://arxiv.org/pdf/2601.03107)
+\
+Preprint, 2026.
+
+[Propagation of chaos for the Landau equation with very soft potentials.](https://arxiv.org/pdf/2506.15795)
 \
 Preprint, 2025.
 

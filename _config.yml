@@ -25,10 +25,10 @@ author:
   avatar           : "profile.jpg"
   name             : "Côme Tabary"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student at DMA, Ecole Normale Supérieure"
+  bio              : "PhD Student at IMJ-PRG, Université Paris Cité"
   location         : "Paris, France"
   uri              : # URL
-  email            : "tabary at imj-prg dot fr" 
+  email            : "come dot tabary at imj-prg dot fr" 
 
   # Academic websites
   academia         : # URL
@@ -280,7 +280,7 @@ defaults:
       path: ""
       type: talks
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
