@@ -5,17 +5,21 @@ title: 'Prepublications'
 redirect_from: 
   - "/publication/"
 ---
+[Propagation of chaos for the Boltzmann equation with very soft potentials.](https://arxiv.org/pdf/2604.13855)
+\
+Preprint, 2026.
+
 [On the monotonicity of the entropy production in the Landau-Maxwell equation.](https://arxiv.org/pdf/2601.03107)
 \
 Preprint, 2026.
 
-[Propagation of chaos for the Landau equation with very soft potentials.](https://arxiv.org/pdf/2506.15795)
+[Propagation of chaos for the Landau equation with very soft and Coulomb potentials.](https://arxiv.org/pdf/2506.15795)
 \
 Preprint, 2025.
 
 [Weak-Strong uniqueness for the Landau equation by a relative entropy method.](https://arxiv.org/pdf/2505.21120)
 \
-Preprint, 2025.
+Accepted for publication in SIAM Journal of Mathematical Analysis, 2025.
 
 Journal Articles
 ======
