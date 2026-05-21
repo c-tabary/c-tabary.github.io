@@ -7,7 +7,8 @@ redirect_from:
 ---
 **Propagation of chaos for the Boltzmann equation**
 \
-Analysis Grad Students' Seminar, LMO, Université Paris-Saclay, May 19th, 2026.
+Analysis Grad Students' Seminar, LMO, Université Paris-Saclay, May 19th, 2026. 
+[Slides.](/files/LMO_May_19th.pdf)
 
 
 **Molecular chaos in the Boltzmann equation**
