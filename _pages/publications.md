@@ -23,8 +23,8 @@ Journal Articles
 
 [Weak-Strong uniqueness for the Landau equation by a relative entropy method.](https://arxiv.org/pdf/2505.21120)
 \
-SIAM Journal on Mathematical Analysis, 58(5), 4601-4640, (2026). [doi](https://doi.org/10.1137/25M178701X)
+SIAM Journal on Mathematical Analysis, 58(5), 4601-4640, (2026). [DOI](https://doi.org/10.1137/25M178701X).
 
 [Strichartz estimates for geophysical fluid equations using Fourier restriction theory.](https://comptes-rendus.academie-sciences.fr/mathematique/item/10.5802/crmath.618.pdf)
 \
-With Corentin Gentil. Published in Comptes Rendus. Mathématique, 2024.
+With Corentin Gentil. Comptes Rendus. Mathématique, 362, 1155-1181 (2024). [DOI](https://doi.org/10.5802/crmath.618).
