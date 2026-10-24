@@ -23,8 +23,23 @@ Journal Articles
 
 [Weak-Strong uniqueness for the Landau equation by a relative entropy method.](https://arxiv.org/pdf/2505.21120)
 \
-SIAM Journal on Mathematical Analysis, 58(5), 4601-4640 (2026). [DOI](https://doi.org/10.1137/25M178701X).
+SIAM Journal on Mathematical Analysis, 58(5), 4601-4640, (2026). [DOI](https://doi.org/10.1137/25M178701X).
 
 [Strichartz estimates for geophysical fluid equations using Fourier restriction theory.](https://comptes-rendus.academie-sciences.fr/mathematique/item/10.5802/crmath.618.pdf)
 \
 With Corentin Gentil. Comptes Rendus. Mathématique, 362, 1155-1181 (2024). [DOI](https://doi.org/10.5802/crmath.618).
+
+
+Theses
+======
+
+[Stochastic Treatment of the Formation of
+Ice Mantles on Interstellar Dust Grains.](/files/internship_report_M2_astro.pdf)
+\
+Master's thesis in Astronomy and Astrophysics (2023).
+
+[The Kuramoto model with inertia on
+graphs and its applications to power
+systems.](/files/internship_report_M2_math.pdf)
+\
+Master's thesis in Mathematics (2022).
